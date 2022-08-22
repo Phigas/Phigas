@@ -8,3 +8,4 @@
 - [ ] make website
 - [ ] implement neuralnet using only numpy
 - [ ] implement nn on arduino FPGA
+- [ ] convert electrical circuits to minecraft redstone
